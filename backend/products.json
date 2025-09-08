@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Product 1",
+    "category": "Bags",
+    "image": "/images/1.jpg",
+    "price": 139.58,
+    "description": "Placeholder product 1",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sample Product 2",
+    "category": "Shoes",
+    "image": "/images/2.jpg",
+    "price": 106.14,
+    "description": "Placeholder product 2",
+    "avg_color": [
+      0,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sample Product 3",
+    "category": "Shirts",
+    "image": "/images/3.jpg",
+    "price": 25.34,
+    "description": "Placeholder product 3",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sample Product 4",
+    "category": "Shirts",
+    "image": "/images/4.jpg",
+    "price": 79.26,
+    "description": "Placeholder product 4",
+    "avg_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sample Product 5",
+    "category": "Accessories",
+    "image": "/images/5.jpg",
+    "price": 30.97,
+    "description": "Placeholder product 5",
+    "avg_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sample Product 6",
+    "category": "Shirts",
+    "image": "/images/6.jpg",
+    "price": 21.54,
+    "description": "Placeholder product 6",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sample Product 7",
+    "category": "Accessories",
+    "image": "/images/7.jpg",
+    "price": 143.39,
+    "description": "Placeholder product 7",
+    "avg_color": [
+      0,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sample Product 8",
+    "category": "Shoes",
+    "image": "/images/8.jpg",
+    "price": 62.65,
+    "description": "Placeholder product 8",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Sample Product 9",
+    "category": "Shirts",
+    "image": "/images/9.jpg",
+    "price": 100.9,
+    "description": "Placeholder product 9",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sample Product 10",
+    "category": "Bags",
+    "image": "/images/10.jpg",
+    "price": 65.44,
+    "description": "Placeholder product 10",
+    "avg_color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sample Product 11",
+    "category": "Accessories",
+    "image": "/images/11.jpg",
+    "price": 74.65,
+    "description": "Placeholder product 11",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sample Product 12",
+    "category": "Accessories",
+    "image": "/images/12.jpg",
+    "price": 165.48,
+    "description": "Placeholder product 12",
+    "avg_color": [
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Sample Product 13",
+    "category": "Shirts",
+    "image": "/images/13.jpg",
+    "price": 138.69,
+    "description": "Placeholder product 13",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Sample Product 14",
+    "category": "Shirts",
+    "image": "/images/14.jpg",
+    "price": 121.17,
+    "description": "Placeholder product 14",
+    "avg_color": [
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Sample Product 15",
+    "category": "Shoes",
+    "image": "/images/15.jpg",
+    "price": 16.48,
+    "description": "Placeholder product 15",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Sample Product 16",
+    "category": "Shirts",
+    "image": "/images/16.jpg",
+    "price": 124.16,
+    "description": "Placeholder product 16",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sample Product 17",
+    "category": "Shoes",
+    "image": "/images/17.jpg",
+    "price": 119.16,
+    "description": "Placeholder product 17",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Sample Product 18",
+    "category": "Accessories",
+    "image": "/images/18.jpg",
+    "price": 18.96,
+    "description": "Placeholder product 18",
+    "avg_color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Sample Product 19",
+    "category": "Bags",
+    "image": "/images/19.jpg",
+    "price": 167.95,
+    "description": "Placeholder product 19",
+    "avg_color": [
+      0,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Sample Product 20",
+    "category": "Bags",
+    "image": "/images/20.jpg",
+    "price": 143.16,
+    "description": "Placeholder product 20",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Sample Product 21",
+    "category": "Accessories",
+    "image": "/images/21.jpg",
+    "price": 106.58,
+    "description": "Placeholder product 21",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Sample Product 22",
+    "category": "Shirts",
+    "image": "/images/22.jpg",
+    "price": 48.71,
+    "description": "Placeholder product 22",
+    "avg_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Sample Product 23",
+    "category": "Shoes",
+    "image": "/images/23.jpg",
+    "price": 158.62,
+    "description": "Placeholder product 23",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Sample Product 24",
+    "category": "Accessories",
+    "image": "/images/24.jpg",
+    "price": 138.55,
+    "description": "Placeholder product 24",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sample Product 25",
+    "category": "Bags",
+    "image": "/images/25.jpg",
+    "price": 174.97,
+    "description": "Placeholder product 25",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Sample Product 26",
+    "category": "Shoes",
+    "image": "/images/26.jpg",
+    "price": 24.39,
+    "description": "Placeholder product 26",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sample Product 27",
+    "category": "Accessories",
+    "image": "/images/27.jpg",
+    "price": 120.84,
+    "description": "Placeholder product 27",
+    "avg_color": [
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sample Product 28",
+    "category": "Accessories",
+    "image": "/images/28.jpg",
+    "price": 25.64,
+    "description": "Placeholder product 28",
+    "avg_color": [
+      0,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Sample Product 29",
+    "category": "Bags",
+    "image": "/images/29.jpg",
+    "price": 177.48,
+    "description": "Placeholder product 29",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sample Product 30",
+    "category": "Bags",
+    "image": "/images/30.jpg",
+    "price": 133.73,
+    "description": "Placeholder product 30",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Sample Product 31",
+    "category": "Shirts",
+    "image": "/images/31.jpg",
+    "price": 42.33,
+    "description": "Placeholder product 31",
+    "avg_color": [
+      255,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Sample Product 32",
+    "category": "Bags",
+    "image": "/images/32.jpg",
+    "price": 15.6,
+    "description": "Placeholder product 32",
+    "avg_color": [
+      128,
+      128,
+      128
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Sample Product 33",
+    "category": "Bags",
+    "image": "/images/33.jpg",
+    "price": 168.27,
+    "description": "Placeholder product 33",
+    "avg_color": [
+      128,
+      0,
+      128
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Sample Product 34",
+    "category": "Shirts",
+    "image": "/images/34.jpg",
+    "price": 132.57,
+    "description": "Placeholder product 34",
+    "avg_color": [
+      128,
+      0,
+      128
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Sample Product 35",
+    "category": "Bags",
+    "image": "/images/35.jpg",
+    "price": 155.26,
+    "description": "Placeholder product 35",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Sample Product 36",
+    "category": "Accessories",
+    "image": "/images/36.jpg",
+    "price": 25.98,
+    "description": "Placeholder product 36",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Sample Product 37",
+    "category": "Bags",
+    "image": "/images/37.jpg",
+    "price": 174.71,
+    "description": "Placeholder product 37",
+    "avg_color": [
+      165,
+      42,
+      42
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sample Product 38",
+    "category": "Shoes",
+    "image": "/images/38.jpg",
+    "price": 22.44,
+    "description": "Placeholder product 38",
+    "avg_color": [
+      0,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sample Product 39",
+    "category": "Shirts",
+    "image": "/images/39.jpg",
+    "price": 110.71,
+    "description": "Placeholder product 39",
+    "avg_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Sample Product 40",
+    "category": "Shirts",
+    "image": "/images/40.jpg",
+    "price": 179.59,
+    "description": "Placeholder product 40",
+    "avg_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Sample Product 41",
+    "category": "Accessories",
+    "image": "/images/41.jpg",
+    "price": 73.51,
+    "description": "Placeholder product 41",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Sample Product 42",
+    "category": "Accessories",
+    "image": "/images/42.jpg",
+    "price": 91.3,
+    "description": "Placeholder product 42",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Sample Product 43",
+    "category": "Shirts",
+    "image": "/images/43.jpg",
+    "price": 33.45,
+    "description": "Placeholder product 43",
+    "avg_color": [
+      0,
+      255,
+      255
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Sample Product 44",
+    "category": "Shirts",
+    "image": "/images/44.jpg",
+    "price": 46.82,
+    "description": "Placeholder product 44",
+    "avg_color": [
+      128,
+      0,
+      128
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Sample Product 45",
+    "category": "Bags",
+    "image": "/images/45.jpg",
+    "price": 90.24,
+    "description": "Placeholder product 45",
+    "avg_color": [
+      128,
+      0,
+      128
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Sample Product 46",
+    "category": "Bags",
+    "image": "/images/46.jpg",
+    "price": 80.87,
+    "description": "Placeholder product 46",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Sample Product 47",
+    "category": "Accessories",
+    "image": "/images/47.jpg",
+    "price": 69.04,
+    "description": "Placeholder product 47",
+    "avg_color": [
+      0,
+      0,
+      255
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Sample Product 48",
+    "category": "Accessories",
+    "image": "/images/48.jpg",
+    "price": 170.58,
+    "description": "Placeholder product 48",
+    "avg_color": [
+      255,
+      192,
+      203
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Sample Product 49",
+    "category": "Accessories",
+    "image": "/images/49.jpg",
+    "price": 169.82,
+    "description": "Placeholder product 49",
+    "avg_color": [
+      128,
+      0,
+      128
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Sample Product 50",
+    "category": "Bags",
+    "image": "/images/50.jpg",
+    "price": 117.39,
+    "description": "Placeholder product 50",
+    "avg_color": [
+      255,
+      165,
+      0
+    ]
+  }
+]
