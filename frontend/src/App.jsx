@@ -58,34 +58,49 @@ export default function App() {
   const filtered = matches.filter(m => m.score >= minScore)
 
   return (
-    <div className="container">
-      <header>
-        <h1>Visual Product Matcher</h1>
-        <p className="subtitle">Upload an image or paste URL — find visually similar products</p>
-      </header>
+    <>
+      <div className="topbar">
+        <div className="topbar-inner">
+          <div className="brand">
+            <span className="brand-mark">VM</span>
+            <span className="brand-name">Visual Matcher</span>
+          </div>
+          <nav className="top-actions">
+            <a href="#upload" className="top-link">Upload</a>
+            <a href="#results" className="top-link">Results</a>
+          </nav>
+        </div>
+      </div>
 
-      <main>
-        <UploadPanel onQuery={handleQuery} backend={BACKEND} />
-        {loadingProducts ? <Loader /> : (
-          <>
-            <div className="filter-row">
-              <label>
-                Min similarity: <strong>{minScore}</strong>
-              </label>
-              <input type="range" min="0" max="100" value={minScore} onChange={(e)=>setMinScore(Number(e.target.value))}/>
-            </div>
+      <div className="container">
+        <header>
+          <h1>Find Products That Match Your Image</h1>
+          <p className="subtitle">Upload a photo or paste a link — we’ll surface the closest visual matches.</p>
+        </header>
 
-            <section className="results">
-              <h2>Results {queryImage ? `for your image` : ''}</h2>
-              <ProductGrid products={filtered} queryImage={queryImage}/>
-            </section>
-          </>
-        )}
-      </main>
+        <main>
+          <section id="upload">
+            <UploadPanel onQuery={handleQuery} backend={BACKEND} />
+          </section>
+          {loadingProducts ? <Loader /> : (
+            <>
+              <div className="filter-row">
+                <label>
+                  Show results with similarity ≥ <strong>{minScore}</strong>
+                </label>
+                <input type="range" min="0" max="100" value={minScore} onChange={(e)=>setMinScore(Number(e.target.value))}/>
+              </div>
 
-      <footer>
-        <small>Built to match the assignment PDF • Mobile responsive • Simple & fast</small>
-      </footer>
-    </div>
+              <section className="results" id="results">
+                <h2>Similar Products {queryImage ? `for your image` : ''}</h2>
+                <ProductGrid products={filtered} queryImage={queryImage}/>
+              </section>
+            </>
+          )}
+        </main>
+      
+      
+      </div>
+    </>
   )
 }

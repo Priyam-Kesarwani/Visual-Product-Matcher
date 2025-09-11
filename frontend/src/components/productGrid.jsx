@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function ProductGrid({ products, queryImage }) {
-  if (!products?.length) return <div className="no-results">No similar products found</div>
+  if (!products?.length) return <div className="no-results">No results yet — try adjusting the similarity slider or upload a clearer image.</div>
   return (
     <div className="grid">
       {products.map(p => (
