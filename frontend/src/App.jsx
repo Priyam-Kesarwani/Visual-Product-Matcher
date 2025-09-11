@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-import UploadPanel from './components/UploadPanel'
-import ProductGrid from './components/ProductGrid'
+import UploadPanel from './components/uploadPanel'
+import ProductGrid from './components/productGrid'
 import Loader from './components/Loader'
 import './styles.css';
 
