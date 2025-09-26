@@ -6,8 +6,6 @@ import Loader from './components/Loader'
 import './styles.css';
 
 
-
-
 const BACKEND = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000'
 
 export default function App() {
